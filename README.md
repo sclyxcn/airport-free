@@ -1,7 +1,7 @@
 # Airport-Free
 ## Free nodes, automatically renews subscription every 3h
 
-- Update time（UTC+8）：`2025-10-29 17:25:44`
+- Update time（UTC+8）：`2025-10-29 18:26:50`
 - [v2ray nodes all in one](https://github.com/sclyxcn/airport-free/blob/main/v2ray.txt).（Not recommended）
 - [v2ray nodes all in one](http://gh.927223.xyz/https://github.com/sclyxcn/airport-free/blob/main/v2ray.txt) （ you can use this if can not access）
 - Since CDN acceleration will cache and cause node updates to lag, you can go to [Github](https://github.com/sclyxcn/airport-free) fetch [clash files](https://github.com/sclyxcn/airport-free/tree/main/clash) or [v2ray files](https://github.com/sclyxcn/airport-free/tree/main/v2ray)
